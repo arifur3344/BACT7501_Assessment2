@@ -1,4 +1,4 @@
-# Counter to generate unique Requisition ID (From Assessment 1)
+# Counter to generate unique Requisition ID 
 requisition_counter = 0
 
 class Requisition:
